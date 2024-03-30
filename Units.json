@@ -1,0 +1,47 @@
+"name": "Byzantine Hoplite",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Byzantium",
+		"movement": 4,
+		"strength": 35,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Shock II],
+		"attackSound": "metalhit"
+		
+		"name": "Royal Cataphract",
+		"unitType": "Mounted",
+		"uniqueTo": "Byzantium",
+		"replaces": "Horseman",
+		"movement": 5,
+		"strength": 25,
+		"cost": 50,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+		
+		"name": "Varangian guard",
+		"unitType": "Sword",
+		"uniqueTo":"Byzantium"
+		"replaces":"Swordsman"
+		"movement": 5,
+		"strength": 50,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+		"civilopediaText": [
+			{"text": "Big burly boys,Members of the Emperor's personal guard'"}
+		
+
+		
