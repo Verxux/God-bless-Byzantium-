@@ -1,4 +1,4 @@
-"name": "Byzantine Hoplite",
+                "name": "Byzantine Hoplite",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Byzantium",
@@ -9,7 +9,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Shock I", "Shock II],
+		"promotions": ["Shock I", "Shock II"],
 		"attackSound": "metalhit"
 		
 		"name": "Royal Cataphract",
