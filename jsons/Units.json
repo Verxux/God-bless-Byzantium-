@@ -11,15 +11,15 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Shock I", "Shock II"],
+		"promotions": ["Shock I", "Shock II", "Shock III"],
 		"attackSound": "metalhit"
 		},
                 {
-		"name": "Royal Cataphract",
+		"name": "Cataphract",
 		"unitType": "Mounted",
 		"uniqueTo": "Byzantium",
 		"replaces": "Horseman",
-		"movement": 5,
+		"movement": 6,
 		"strength": 25,
 		"cost": 50,
 		"requiredTech": "Horseback Riding",
@@ -45,6 +45,7 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+		"promotions": ["Drill I", "Drill II"]
 		"civilopediaText": [
 			{"text": "Big burly boys,Members of the Emperor's personal guard'"}]
 		},
@@ -52,7 +53,7 @@
 		"name": "Byzantine Grenadiers",
 		"unitType": "Archery",
 		"uniqueTo": "Byzantium",
-		"movement": 3,
+		"movement": 4,
 		"strength": 20,
 		"rangedStrength": 25,
 		"replaces": "Crossbowman",
