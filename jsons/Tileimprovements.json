@@ -1,10 +1,10 @@
-              [
-               {
+               [
+                {
                 "name": "Inn",
 		"uniqueTo": "Byzantium",
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Flood plains"],
 		"Gold": 2,
-                "Happiness":1
+                "Happiness":1,
 		"turnsToBuild": 4,
 		"uniques": ["[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
