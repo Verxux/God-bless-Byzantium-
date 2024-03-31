@@ -4,7 +4,7 @@
 		"uniqueTo": "Byzantium",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 2,
-                "Happiness": 1,
+                "happiness": 1,
 		"turnsToBuild": 4,
 		"uniques": ["[+2 Gold] for each adjacent [Mountain]",
 			"[+2 Gold] from [non-fresh water] tiles <after discovering [Guilds]>",
