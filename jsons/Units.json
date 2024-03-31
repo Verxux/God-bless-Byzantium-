@@ -27,6 +27,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Shock I", "Shock II", "Charge"],	
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		},
@@ -36,7 +37,7 @@
 		"uniqueTo":"Byzantium"
 		"replaces":"Swordsman"
 		"movement": 5,
-		"strength": 50,
+		"strength": 40,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -46,7 +47,22 @@
 		"attackSound": "metalhit"
 		"civilopediaText": [
 			{"text": "Big burly boys,Members of the Emperor's personal guard'"}]
-		}, 
+		},
+	        {
+		"name": "Byzantine Grenadiers",
+		"unitType": "Archery",
+		"uniqueTo": "Byzantium",
+		"movement": 3,
+		"strength": 20,
+		"rangedStrength": 25,
+		"replaces": "Crossbowman",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Accuracy I","Accuracy II"],
+		"attackSound": "crossbow"
+                },
 	       ]		
 
 		
