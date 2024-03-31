@@ -2,13 +2,12 @@
                 {
                 "name": "Inn",
 		"uniqueTo": "Byzantium",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"Gold": 2,
-                "Happiness":1,
+                "Happiness": 1,
 		"turnsToBuild": 4,
-		"uniques": ["[+1 Food] for each adjacent [Mountain]",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
-			"[+2 Food] from [non-fresh water] tiles <after discovering [Guilds]>",
+		"uniques": ["[+1 Gold] for each adjacent [Mountain]",
+			"[+2 Gold] from [non-fresh water] tiles <after discovering [Guilds]>",
                 "Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "F"
