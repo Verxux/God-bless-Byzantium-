@@ -1,3 +1,5 @@
+               [
+                {
                 "name": "Byzantine Hoplite",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -11,7 +13,8 @@
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Shock II"],
 		"attackSound": "metalhit"
-		
+		},
+                {
 		"name": "Royal Cataphract",
 		"unitType": "Mounted",
 		"uniqueTo": "Byzantium",
@@ -26,7 +29,8 @@
 		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
-		
+		},
+		{
 		"name": "Varangian guard",
 		"unitType": "Sword",
 		"uniqueTo":"Byzantium"
@@ -42,6 +46,7 @@
 		"attackSound": "metalhit"
 		"civilopediaText": [
 			{"text": "Big burly boys,Members of the Emperor's personal guard'"}
-		
+			},
+                       ]		
 
 		
