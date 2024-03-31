@@ -21,7 +21,7 @@
 	        {
 		"name": "Imperial Barracks",
 		"replaces": "Barracks",
-		"uniqueTo": "Byzantiumq",
+		"uniqueTo": "Byzantium",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]","[-50]% Gold cost of acquiring tiles [in this city]",
