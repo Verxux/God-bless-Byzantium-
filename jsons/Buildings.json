@@ -7,6 +7,7 @@
 		"cityStrength": 50,
 		"cityHealth": 250,
 		"hurryCostModifier": 25,
+	        "science": 5
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
                 },
@@ -25,7 +26,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]","[-50]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured"],
+			"New [Military] units start with [75] Experience [in this city]", "Destroyed when the city is captured"],
 			"quote":"'The men trained day and night...nonstop,without regard for hunger and thirst,seemingly guided by a supernatural force.They came to show feats of superhuman levels.With their weapons by their side,they came to be known as God's legion"
 		},
 		{
@@ -34,8 +35,8 @@
 		"uniqueTo": "Byzantium",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"culture": 5,
-		"faith": 5,
+		"culture": 10,
+		"faith": 10,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	        },
@@ -44,8 +45,8 @@
 		"cost": 100,
 		"replaces": "Grand Temple",
 		"uniqueTo": "Byzantium",	
-		"culture": 20,
-		"faith": 10,
+		"culture": 30,
+		"faith": 30,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [10] per owned city",
 			"[+200]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
