@@ -1,4 +1,4 @@
-              [
+               [
                 {
 	        "name": "Walls of Constantinople",
 		"replaces": "Walls",
@@ -26,5 +26,6 @@
 		"maintenance": 1,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]","[-50]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured"],
-			"quote":"'The men trained day and night...nonstop,without regard for hunger and thirst,seemingly guided by a supernatural force.They came to show feats of superhuman levels.With their weapons by their side,they came to be known as 'God's legion'-Record 354'"
-                {
+			"quote":"'The men trained day and night...nonstop,without regard for hunger and thirst,seemingly guided by a supernatural force.They came to show feats of superhuman levels.With their weapons by their side,they came to be known as God's legion"
+		},
+	       ]
