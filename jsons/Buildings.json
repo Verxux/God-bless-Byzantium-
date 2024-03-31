@@ -1,4 +1,4 @@
-        "name": "Walls of Constantinople",
+                "name": "Walls of Constantinople",
 		"replaces": "Walls",
 		"cost": 30,
 		"uniqueTo": "Byzantium",
@@ -7,15 +7,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
+
 		"name": "Imperiālis Castra",
 		"hurryCostModifier": 25,
 		"uniqueTo": "Byzantium",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
-		name": "Imperial Barracks",
+
+		"name": "Imperial Barracks",
 		"replaces": "Barracks",
-		"uniqueTo": "Byzantine",
+		"uniqueTo": "Byzantiumq",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]","[-50]% Gold cost of acquiring tiles [in this city]",
