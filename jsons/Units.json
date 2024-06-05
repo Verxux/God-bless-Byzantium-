@@ -45,7 +45,7 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-		"promotions": ["Drill I", "Drill II", "Drill III],
+		"promotions": ["Drill I", "Drill II", "Drill III"],
 		"civilopediaText": [
 			{"text": "Big burly boys,Members of the Emperor's personal guard'"}]
 		},
