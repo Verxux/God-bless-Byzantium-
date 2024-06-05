@@ -61,10 +61,10 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["Can move after attacking", "[+50]% Strength <vs cities> <when attacking>",
+		"uniques": ["Can move after attacking", "[+50]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Accuracy I","Accuracy II"],
 		"attackSound": "crossbow"
-                 },
+                },
 		{
 		"name": "Klibanophoros",
 		"unitType": "Mounted",
