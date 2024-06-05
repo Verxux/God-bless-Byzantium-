@@ -77,7 +77,6 @@
 	        },
 		{
 		"name": "Statue of Justinian",
-		"replaces": "National epic",
 		"uniqueTo": "Byzantium",
 		"cost": 125,
 		"culture": 5,
