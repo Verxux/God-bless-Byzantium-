@@ -64,7 +64,7 @@
 		"uniques": ["Can move after attacking", "[+50]% Strength <vs cities> <when attacking>",
 		"promotions": ["Accuracy I","Accuracy II"],
 		"attackSound": "crossbow"
-                },
+                 },
 		{
 		"name": "Klibanophoros",
 		"unitType": "Mounted",
@@ -80,7 +80,6 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	        },
-		
 	       {
 		"name": "Javelineer",
 		"unitType": "Archery",
