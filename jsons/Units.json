@@ -27,7 +27,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Shock I", "Shock II", "Charge"],	
+		"promotions": ["Shock I", "Shock II", "Shock III", "Charge"],	
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		},
@@ -54,14 +54,14 @@
 		"unitType": "Archery",
 		"uniqueTo": "Byzantium",
 		"movement": 4,
-		"strength": 20,
-		"rangedStrength": 25,
+		"strength": 28,
+		"rangedStrength": 30,
 		"replaces": "Crossbowman",
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["Can move after attacking", "[+50]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "[+66]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Accuracy I","Accuracy II"],
 		"attackSound": "crossbow"
                 },
@@ -71,7 +71,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Byzantium",
 		"movement": 5,
-		"strength": 36,
+		"strength": 40,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
@@ -91,8 +91,22 @@
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
 		"uniqueTo": "Byzantium",
-		"upgradesTo": "Byzantine Grenadiers",
+		"upgradesTo": "Legionary Javelineer",
 		"attackSound": "arrow"	
 	       },
-	     ]
+                {
+		"name": "Legionary Javelineer",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 24,
+		"rangedStrength": 26,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "Byzantium",
+		"upgradesTo": "Legionary Javelineer",
+		"attackSound": "arrow"	
+	       },
+	      ]
 		
