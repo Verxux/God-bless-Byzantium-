@@ -5,7 +5,7 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "Byzantium",
 		"movement": 4,
-		"strength": 35,
+		"strength": 30,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
@@ -19,9 +19,9 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Byzantium",
 		"replaces": "Horseman",
-		"movement": 6,
-		"strength": 25,
-		"cost": 50,
+		"movement": 5,
+		"strength": 28,
+		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
@@ -36,8 +36,8 @@
 		"unitType": "Sword",
 		"uniqueTo":"Byzantium"
 		"replaces":"Swordsman"
-		"movement": 5,
-		"strength": 40,
+		"movement": 4,
+		"strength": 25,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -45,7 +45,7 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-		"promotions": ["Drill I", "Drill II"]
+		"promotions": ["Drill I", "Drill II", "Drill III],
 		"civilopediaText": [
 			{"text": "Big burly boys,Members of the Emperor's personal guard'"}]
 		},
@@ -61,9 +61,39 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
+		"uniques": ["Can move after attacking", "[+50]% Strength <vs cities> <when attacking>",
 		"promotions": ["Accuracy I","Accuracy II"],
 		"attackSound": "crossbow"
                 },
-	       ]		
-
+		{
+		"name": "Klibanophoros",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Byzantium",
+		"movement": 5,
+		"strength": 36,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "horse"
+	        },
+		
+	       {
+		"name": "Javelineer",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 16,
+		"rangedStrength": 18,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "Byzantium",
+		"upgradesTo": "Byzantine Grenadiers",
+		"attackSound": "arrow"	
+	       },
+	     ]
 		
