@@ -5,8 +5,8 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "Byzantium",
 		"movement": 4,
-		"strength": 30,
-		"cost": 120,
+		"strength": 35,
+		"cost": 100,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
@@ -26,7 +26,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "[-10]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Shock I", "Shock II", "Shock III", "Charge"],	
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -102,10 +102,10 @@
 		"rangedStrength": 26,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Machinery",
 		"replaces": "Archer",
 		"uniqueTo": "Byzantium",
-		"upgradesTo": "Legionary Javelineer",
+		"upgradesTo": "Byzantine Grenadiers",
 		"attackSound": "arrow"	
 	       },
 	      ]
