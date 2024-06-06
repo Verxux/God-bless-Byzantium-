@@ -62,7 +62,7 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"uniques": ["Can move after attacking", "[+66]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Accuracy I","Accuracy II"],
+		"promotions": ["Accuracy I","Accuracy II","Accuracy III"],
 		"attackSound": "crossbow"
                 },
 		{
@@ -91,6 +91,7 @@
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
 		"uniqueTo": "Byzantium",
+		"promotions": ["Accuracy I","Accuracy II","Accuracy III"]
 		"upgradesTo": "Legionary Javelineer",
 		"attackSound": "arrow"	
 	       },
@@ -105,6 +106,7 @@
 		"obsoleteTech": "Machinery",
 		"replaces": "Archer",
 		"uniqueTo": "Byzantium",
+		"promotions": ["Barrage I","Barrage II","Barrage III"]
 		"upgradesTo": "Byzantine Grenadiers",
 		"attackSound": "arrow"	
 	       },
