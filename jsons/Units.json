@@ -101,7 +101,7 @@
 		"strength": 24,
 		"rangedStrength": 26,
 		"cost": 40,
-		"requiredTech": "Archery",
+		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"replaces": "Archer",
 		"uniqueTo": "Byzantium",
