@@ -114,4 +114,5 @@
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+2 Gold] from [Horse] tiles [in this city]", "[+2 Gold] from [Water] tiles [in this city]"],
 		"requiredTech": "Currency"
+		},
 	       ]
