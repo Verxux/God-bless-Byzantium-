@@ -7,8 +7,8 @@
 		"cityStrength": 12,
 		"cityHealth": 150,
 		"hurryCostModifier": 25,
-	        "science": 3,
-		"production": 3,
+	        "science": 4,
+		"production": 4,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
                 },
@@ -17,7 +17,7 @@
 		"hurryCostModifier": 25,
 		"uniqueTo": "Byzantium",
 		"maintenance": 1,
-		"production": 2,
+		"production": 3,
 		"uniques": ["New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 		},
@@ -71,7 +71,7 @@
 		"name": "Bank service of the Imperial crown",
                 "replaces": "Bank",
 		"uniqueTo": "Byzantium",
-		"gold": 4,
+		"gold": 5,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
