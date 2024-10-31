@@ -44,7 +44,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","[+1] Sight"],
-		"promotions": ["Immortality","Baggage Train","Drill I"],
+		"promotions": ["Immortality","Baggage Train","Drill I","Heavy Armored Charge"],
 		"attackSound": "horse"
 		},
 		{
