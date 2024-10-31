@@ -11,7 +11,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Shock I", "Shock II" , "Baggage Train"],
+		"promotions": ["Shock I", "Shock II" , "Baggage Train","Bloodlust"],
 		"attackSound": "metalhit",
 		},
 		{
