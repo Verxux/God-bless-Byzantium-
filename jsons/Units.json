@@ -5,7 +5,7 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "Byzantium",
 		"movement": 3,
-		"strength": 25,
+		"strength": 26,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
@@ -37,7 +37,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Byzantium",
 		"movement": 4,
-		"strength": 26,
+		"strength": 28,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
@@ -73,7 +73,7 @@
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-		"promotion": ["Baggage Train", "Fire Dragon"]
+		"promotion": ["Baggage Train","Fire Dragon"]
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
